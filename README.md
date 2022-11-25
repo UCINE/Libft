@@ -1,4 +1,4 @@
-#### I Will explain to you all you need to start this project, don't panic!
+## I Will explain to you all you need to start this project, don't panic!
 ## Libft is a Library of Functions
 the file structure is the following :
 
@@ -13,7 +13,7 @@ Make sure you add #include "libft.h" in all of your source files.
 Makefile is where you will create a file to compile your projects. Remember how in the piscine, you created an int main and gcc to compile the projects, well with a Makefile, you don't have to do that anymore, you just type make once you have created your Makefile.
 
 ## Libft functions
-* ft_isalpha - checks for an alphabetic character.
+* [ft_isalpha] - checks for an alphabetic character.
 * ft_isdigit - checks for a digit (0 through 9).
 * ft_isalnum - checks for an alphanumeric character.
 * ft_isascii - checks whether c fits into the ASCII character set.
