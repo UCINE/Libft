@@ -1,6 +1,6 @@
 
 ## Libft is a Library of Functions
-First project of school 42. This exercise allows you to consolidate the achievements of the C pool. Indeed, it is a question of recoding a certain number of functions of the standard C library as well as other functions which may prove useful afterwards. the file structure is the following :
+First project of school 42. This project allows you to consolidate the achievements of the C pool.it is a question of recoding a certain number of functions of the standard C library as well as other functions which may prove useful afterwards. the file structure is the following :
 
 ## Header file
 Your header file is useful for 2 things:
