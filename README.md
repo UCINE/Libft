@@ -28,7 +28,7 @@ Makefile is where you will create a file to compile your projects. Remember how 
 * **ft_strlcpy** copy string to an specific size.
 * **ft_strlcat** concatenate string to an specific size.
 * **ft_strchr** locate character in string.
-* **ft_strrchr** locate character in string.
+* **ft_strrchr** locate character in string. 
 * **ft_strncmp** compare two strings.
 * **ft_memchr** scan memory for a character.
 * **ft_memcmp** compare memory areas.
