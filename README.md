@@ -53,4 +53,3 @@ Makefile is where you will create a file to compile your projects. Remember how 
 * **ft_lstsize** counts the number of elements in a list.
 * **ft_lstlast** returns the last element of the list.
 * **ft_lstadd_back** adds an element at the end of a list.
-
